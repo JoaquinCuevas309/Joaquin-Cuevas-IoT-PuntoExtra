@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "434756966653",
+    "project_id": "puntoextraiot",
+    "storage_bucket": "puntoextraiot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434756966653:android:26318077292297940b4694",
+        "android_client_info": {
+          "package_name": "com.example.loginfb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-1Oad3KSIhj2G67wbwO5yPpy-yIfOir8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
